@@ -1,0 +1,22 @@
+{
+    "name": "eslint-config-updated",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "eslint",
+        "eslint-config",
+        "focus"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.19.0",
+        "eslint-plugin-filenames": "^1.3.2",
+        "eslint-plugin-import": "^2.22.1",
+        "eslint-plugin-react": "^7.22.0"
+    },
+    "devDependencies": {}
+}
