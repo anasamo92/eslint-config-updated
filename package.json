@@ -10,6 +10,10 @@
         "eslint-config",
         "focus"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anasamo92/eslint-config-updated.git"
+    },
     "license": "MIT",
     "dependencies": {
         "babel-eslint": "^10.1.0",
